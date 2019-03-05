@@ -124,6 +124,9 @@
       <find>8080</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -185,6 +188,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -355,12 +359,12 @@
       <workItem from="1551345139824" duration="7077000" />
       <workItem from="1551604502731" duration="2439000" />
       <workItem from="1551706094752" duration="1952000" />
-      <workItem from="1551776573385" duration="1652000" />
+      <workItem from="1551776573385" duration="2190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53300000" />
+    <option name="totallyTimeSpent" value="53838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -381,7 +385,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.42291373" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.42351276" />
       <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3550212" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.16288953" />
