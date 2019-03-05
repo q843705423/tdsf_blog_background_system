@@ -1,15 +1,12 @@
-package com.tiandisifang.Controller;
+package com.tiandisifang.controller;
 
 
-import com.tiandisifang.Service.UserService;
+import com.tiandisifang.service.UserService;
 import com.tiandisifang.interceptor.UnCheck;
 import com.tiandisifang.model.UserInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-
-import java.util.HashMap;
 
 import static org.springframework.web.bind.annotation.RequestMethod.*;
 

@@ -7,7 +7,8 @@ spring:
 mybatis:
   typeAliasesPackage: com.tiandisifang.model
   mapperLocations: classpath:mapper/*.xml
-
+  configuration:
+    mapUnderscoreToCamelCase: true
 
 ---
 
@@ -15,9 +16,9 @@ mybatis:
 spring:
   profiles: dev
   datasource:
-    url: jdbc:mysql://localhost:3306/tdsf
+    url: jdbc:mysql://localhost:3306/blog
     username: root
-    password: wangleqi
+    password: root
     driver-class-name: com.mysql.jdbc.Driver
     # 使用druid数据源
     type: com.alibaba.druid.pool.DruidDataSource

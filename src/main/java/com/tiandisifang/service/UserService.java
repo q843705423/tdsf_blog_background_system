@@ -1,7 +1,7 @@
-package com.tiandisifang.Service;
+package com.tiandisifang.service;
 
 
-import com.tiandisifang.Mapper.UserMapper;
+import com.tiandisifang.mapper.UserMapper;
 import com.tiandisifang.model.UserInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

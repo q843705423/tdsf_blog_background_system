@@ -1,7 +1,6 @@
 package com.tiandisifang.interceptor;
 
-import com.tiandisifang.model.UserInfo;
-import com.tiandisifang.Service.UserService;
+import com.tiandisifang.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.method.HandlerMethod;
@@ -13,7 +12,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.io.PrintWriter;
 import java.lang.reflect.Method;
 
 

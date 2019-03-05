@@ -1,4 +1,4 @@
-package com.tiandisifang.Mapper;
+package com.tiandisifang.mapper;
 
 
 import com.tiandisifang.model.UserInfo;
